@@ -99,6 +99,11 @@ header div ul {
   }
 }
 
+.text-gradient {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 @media (min-width: 575px) {
 }
 
