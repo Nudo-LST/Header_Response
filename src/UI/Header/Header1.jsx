@@ -1,5 +1,6 @@
+import "./style.css";
 import React from "react";
-import MenuButton from "./MenuButton.jsx";
+import MenuButton from "../MenuButton.jsx";
 
 export default function Header() {
   return (
