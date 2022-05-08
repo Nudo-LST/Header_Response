@@ -23,6 +23,11 @@ export default function SimpleBlogPostCrard(props) {
         />
       </div>
       <div style={{ color: `white` }}>
+        <h1 style={{ margin: `4px 0px`, color: `white` }}>Title Of The Post</h1>
+        <h3 style={{ margin: `4px 0px` }}>Description Of The Post</h3>
+        <h3 style={{ margin: `4px 0px 20px` }}>
+          Options like like or dislike, share etc
+        </h3>
         Proin faucibus arcu quis ante. Cras id dui. Mauris turpis nunc, blandit
         et, volutpat molestie, porta ut, ligula. Cum sociis natoque penatibus et
         magnis dis parturient montes, nascetur ridiculus mus. Fusce vel dui.
